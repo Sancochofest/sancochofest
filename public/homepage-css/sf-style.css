@@ -3,23 +3,23 @@
 }
 
 #contact{
-  background-image: url('../public/homepage-css/images/bk-contact.png') ;
+  background-image: url('/public/homepage-css/images/bk-contact.png') ;
 }
 #fest{
-  background-image: url('../public/homepage-css/images/bk-fest.png') ;
+  background-image: url('/public/homepage-css/images/bk-fest.png') ;
 }
 #organizes{
-  background-image: url('../public/homepage-css/images/bk-organizes.png') ;
+  background-image: url('/public/homepage-css/images/bk-organizes.png') ;
 }
 #past{
-  background-image: url('../public/homepage-css/images/bk-past.png') ;
+  background-image: url('/public/homepage-css/images/bk-past.png') ;
 }
 #setlist{
-  background-image: url('../public/homepage-css/images/bk-setlist.png') ;
+  background-image: url('/public/homepage-css/images/bk-setlist.png') ;
 }
 #sponsors{
-  background-image: url('../public/homepage-css/images/bk-sponsors.png') ;
+  background-image: url('/public/homepage-css/images/bk-sponsors.png') ;
 }
 #welcome{
-  background-image: url('../public/homepage-css/images/bk-welcome.png') ;
+  background-image: url('/public/homepage-css/images/bk-welcome.png') ;
 }
