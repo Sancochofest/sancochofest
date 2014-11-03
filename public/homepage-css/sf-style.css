@@ -1,3 +1,25 @@
 .section-block{
   padding: 50px;
 }
+
+#contact{
+  background-image: url('../public/home-css/images/') ;
+}
+#fest{
+  background-image: url('../public/home-css/images/') ;
+}
+#organizes{
+  background-image: url('../public/home-css/images/') ;
+}
+#past{
+  background-image: url('../public/home-css/images/') ;
+}
+#setlist{
+  background-image: url('../public/home-css/images/') ;
+}
+#sponsors{
+  background-image: url('../public/home-css/images/') ;
+}
+#welcome{
+  background-image: url('../public/home-css/images') ;
+}
